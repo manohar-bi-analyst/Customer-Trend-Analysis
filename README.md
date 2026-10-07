@@ -24,6 +24,6 @@ Subscriptions: Current subscription programs did not lift average sales (59.49 v
 
 Recommendations:
 
-Segment Smarter: Design campaigns around high‑value discount users and gender‑specific revenue trends.
+Design campaigns around high‑value discount users and gender‑specific revenue trends.
 Improve the Offer: Focus product and review interventions on lowest‑rated items rather than treating all categories equally.
 Prove Subscription Value: Enhance benefits that increase average sale or repeat purchases, not just sign‑ups.
